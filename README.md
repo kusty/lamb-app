@@ -1,3 +1,3 @@
 # lamb-app
 
-一个小项目
+一个基于react-native/redux的小项目
